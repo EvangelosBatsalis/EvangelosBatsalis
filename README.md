@@ -48,8 +48,7 @@ Here are some ideas to get you started:
 <p>Hi, I'm Evangelos</p>
 
 <p>I am working in the field of computer and network technology for at least 15 years. I always like casual coding at early stages of my career and at my free time.</p>
-<p>I am studying Computer Science at EAP University of Patras to take my knowledge to the next step, and because of that Programming has become an integral part of my life in recent years, so I started to take backend development at more interest.</p>  
-<p>also, I love tweaking my Linux Desktop.</p>
+<p>I am studying Computer Science at EAP University of Patras to take my knowledge to the next step, and because of that Programming has become an integral part of my life in recent years, so I started to take backend development at more interest, I also love tweaking my Linux Environment.</p>
 <br>
 <hr>
 <br>
