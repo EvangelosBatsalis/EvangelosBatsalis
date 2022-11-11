@@ -37,3 +37,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:hover{
+	background-color:red;
+}
+</style>
+</head>
+<body>
+
+<h2>CSS Buttons</h2>
+
+<button>Default Button</button>
+<a href="#" class="button">Link Button</a>
+<button class="button">Button</button>
+<input type="button" class="button" value="Input Button">
+
+</body>
+</html>
