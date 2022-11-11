@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <br>
 - 🌱 I’m currently learning Spring Boot and Spring Security.
 <br>
-- ⚡ Fun fact: I love </JetBrains academy\>.
+- ⚡ Fun fact: I love <\JetBrains academy\>.
 <br>
 <h1 align="center">Contact Me</h1>
 <br>
