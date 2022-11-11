@@ -1,4 +1,4 @@
-<h1> Welcome </h1>
+<h1 align="center"> Welcome </h1>
 <br>
 <hr>
 <br>
@@ -11,9 +11,13 @@
 <hr>
 <br>
 - 🌱 I’m currently learning Spring Boot and Spring Security.
-- ⚡ Fun fact: I love hyperskill <JetBrains academy>.
-
-- 📫 How to reach me: vbatsalis (at) gmail.com
+<br>
+- ⚡ Fun fact: I love hyperskill <\JetBrains academy\>.
+<br>
+<h1 align="center">Contact Me</h1>
+<br>
+<hr>
+<img scr="https://img.shields.io/badge/-LinkedIn-blue" width="50" height="50">
 
 
 <!--
