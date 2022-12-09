@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <br>
 <p>Hi, I'm Evangelos</p>
 
-<p>I am working in the field of computer and network technology for at least 15 years. I always like casual coding at early stages of my career and at my free time.</p>
-<p>I am studying Computer Science at EAP University of Patras to take my knowledge to the next step, and because of that Programming has become an integral part of my life in recent years, so I started to take backend development at more interest, I also love tweaking my Linux Environment.</p>
+<p>I am working in the field of computer and network technology for at least 15 years. I always like casual coding at early stages of my career and I also love tweaking my Linux Enviroment and at my free time.</p>
+<p>I am studying Computer Science at EAP University of Patras to take my knowledge to the next step, and because of that Programming has become an integral part of my life in recent years, so I started to take backend development at more interest.</p>
 <br>
 <hr>
 <br>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <br>
 - 🌱 I’m currently learning Spring Boot and Spring Security.
 <br>
-- ⚡ Fun fact: I love <\JetBrains academy\>.
+- ⚡ Fact: I love <\JetBrains academy\>.
 <br>
 <h1 align="center">Contact Me</h1>
 <br>
