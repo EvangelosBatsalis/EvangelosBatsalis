@@ -10,12 +10,11 @@ Its worth to take a look at my projects.
 
 Here are the most important ones:
 
-- [Documentation](https://linktodocumentation)
-- [Documentation](https://linktodocumentation)
-- [Documentation](https://linktodocumentation)
-- [Documentation](https://linktodocumentation)
-- [Documentation](https://linktodocumentation)
-
+- [JokerApiResults_JavaSwingJPADerbyDB](https://github.com/EvangelosBatsalis/JokerApiResults_JavaSwingJPADerbyDB)
+- [Recipes](https://github.com/EvangelosBatsalis/Recipes)
+- [Code Sharing Platform](https://github.com/EvangelosBatsalis/CodeSharingPlatform)
+- [University programming tasks](https://github.com/EvangelosBatsalis/UniversityTasks)
+ 
 ## Other Common Github Profile Sections
 
 🧠 I'm currently learning to take Java at next step and Spring Boot and Spring security
