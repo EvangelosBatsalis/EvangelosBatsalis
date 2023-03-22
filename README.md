@@ -17,7 +17,7 @@ Here is a small sample:
  
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning to take Java at next step and Spring Boot and Spring security
+🧠 I'm currently learning Java, Spring Boot and Spring security
 
 👩‍💻 I'm currently working on expanding my knowledge with JetBrains academy (Java backend development track)
 
