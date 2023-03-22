@@ -13,7 +13,7 @@ Here is a small sample:
 - [JokerApiResults_JavaSwingJPADerbyDB](https://github.com/EvangelosBatsalis/JokerApiResults_JavaSwingJPADerbyDB)
 - [Recipes](https://github.com/EvangelosBatsalis/Recipes)
 - [Code Sharing Platform](https://github.com/EvangelosBatsalis/CodeSharingPlatform)
-- [University programming tasks](https://github.com/EvangelosBatsalis/UniversityTasks)
+- [University programming tasks](https://github.com/EvangelosBatsalis/EAP_UniversityOfComputerScience)
  
 ## Other Common Github Profile Sections
 
