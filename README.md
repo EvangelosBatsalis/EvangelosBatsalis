@@ -8,7 +8,7 @@ I am studying Computer Science at EAP University of Patras to take my knowledge 
 
 Its worth to take a look at my projects.
 
-Here is a sample of them:
+Here is a sample:
 
 - [JokerApiResults_JavaSwingJPADerbyDB](https://github.com/EvangelosBatsalis/JokerApiResults_JavaSwingJPADerbyDB)
 - [Recipes](https://github.com/EvangelosBatsalis/Recipes)
