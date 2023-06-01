@@ -14,7 +14,7 @@ Here are some of them:
 - [Recipes](https://github.com/EvangelosBatsalis/Recipes)
 - [Code Sharing Platform](https://github.com/EvangelosBatsalis/CodeSharingPlatform)
 - [Data Structures with Java](https://github.com/EvangelosBatsalis/DataStructuresImplementationsInJava_CWM)
-- [Implementation of Traveling Salesman Problem (TSP) using Genetic Algorithm in Java.](https://github.com/EvangelosBatsalis/WareHouse_RoutingOrder_Heuristic_TSP_AI_GeneticAlgorithm)
+- [Implementation of Traveling Salesman Problem (TSP) using AI Genetic Algorithm (GA) in Java](https://github.com/EvangelosBatsalis/WareHouse_RoutingOrder_Heuristic_TSP_AI_GeneticAlgorithm)
 - [University programming tasks](https://github.com/EvangelosBatsalis/EAP_UniversityOfComputerScience)
  
 ## Other Common Github Profile Sections
