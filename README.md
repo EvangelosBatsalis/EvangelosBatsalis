@@ -17,7 +17,7 @@ Here are some of them:
 - [Implementation of Traveling Salesman Problem (TSP) using AI Genetic Algorithm (GA) in Java](https://github.com/EvangelosBatsalis/WareHouse_RoutingOrder_Heuristic_TSP_AI_GeneticAlgorithm)
 - [University programming tasks](https://github.com/EvangelosBatsalis/EAP_UniversityOfComputerScience)
  
-## Other Common Github Profile Sections
+## Working on
 
 🧠 I'm currently learning Java (Lamda and Streams), Spring Boot, Spring security and working on with Data structures and TSP implementation with Genetic Algorithm.
 
