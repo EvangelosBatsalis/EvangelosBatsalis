@@ -19,11 +19,11 @@ Here are some of them:
  
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning Java, Spring Boot and Spring security
+🧠 I'm currently learning Java (Lamda and Streams), Spring Boot, Spring security and working on with Data structures and TSP implementation with Genetic Algorithm.
 
-👩‍💻 I'm currently working on expanding my knowledge with JetBrains academy (Java backend development track)
+👩‍💻 I'm currently working on expanding my knowledge with JetBrains academy, codecAdemy, leetcode and codeWars.
 
-<!-- 👯‍♀️ I'm looking to collaborate on... -->
+👯‍♀️ I'm following AmigosCode and CodeWithMosh
 
 <!-- 🤔 I'm looking for help with... -->
 
