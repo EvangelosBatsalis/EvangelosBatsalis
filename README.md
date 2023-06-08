@@ -19,11 +19,11 @@ Here are some of them:
  
 ## Working on
 
-🧠 I'm currently learning Java (Lamda and Streams), Spring Boot, Spring security and working on with Data structures and TSP implementation with Genetic Algorithm.
+🧠 I'm currently expand my knolwdge by learning Lamda and Streams in Java, Spring Boot, Spring security and working on with Data structures and TSP implementation on Genetic Algorithm.
 
-👩‍💻 I'm currently working on expanding my knowledge with JetBrains academy, codecAdemy, leetcode and codeWars.
+👩‍💻 I'm also trainning my knowledge with JetBrains academy, codecAdemy, leetcode and codeWars.
 
-👯‍♀️ I'm following AmigosCode and CodeWithMosh
+👯‍♀️ I'm following AmigosCode and CodeWithMosh.
 
 <!-- 🤔 I'm looking for help with... -->
 
